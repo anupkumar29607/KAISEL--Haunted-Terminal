@@ -1,0 +1,6 @@
+PyQt5>=5.15.9
+psutil>=5.9.0
+pyscreenshot>=3.1
+Pillow>=10.0
+# ollama optional
+# pyttsx3 optional
